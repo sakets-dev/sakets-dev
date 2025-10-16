@@ -1,17 +1,22 @@
-# 🌐 Saket Sharma — Personal Website
 
-Welcome to my personal website repository!  
-This site serves as my digital portfolio — showcasing my projects, experience, and journey in computer science, entrepreneurship, and design.
+# 🌐 Saket Sharma
 
-## ✨ Overview
+Hey! I’m **Saket Sharma**, a Computer Science & Statistics student at the **University of Toronto (UTM)**.  
+I’m passionate about building tools that make people’s lives easier — from productivity apps to AI systems that solve real-world problems.
 
-Built with **React** and **Tailwind CSS**, this website reflects my passion for clean UI, interactivity, and functional design.  
-It features:
-- 🧠 **About Me** — a brief introduction to my background and goals  
-- 💻 **Projects** — selected works from hackathons, research, and startups  
-- 🏆 **Achievements** — awards, publications, and recognitions  
-- 🌙 **Dark Mode** — for a smooth, minimal aesthetic  
-- 📱 **Responsive Layout** — works seamlessly on desktop and mobile  
+Over the past few years, I’ve:
+- 🧩 Conducted **research at the University of Toronto** on complexity and organized behaviour  
+- ⚛️ Explored **quantum computing** with student researchers at the **University of Waterloo**  
+- 🏆 Won **1st Place in the Canadian AI Competition**  
+- 🎓 Completed **Harvard’s CS50x**  
+- 💡 Co-founded **SOAPure**, a natural body products startup  
+- 💻 Built and led multiple projects at **hackathons across North America**
+
+I love blending **technology, creativity, and community** — whether that’s through code, entrepreneurship, or mentoring other students.
+
+When I’m not coding, I’m probably reading a **Freida McFadden thriller**, sketching out new app ideas, or planning my next big project.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -20,10 +25,8 @@ It features:
 | **Frontend** | React, Tailwind CSS, JavaScript, HTML, CSS |
 | **Routing** | React Router DOM |
 | **Icons** | Lucide React |
+| **Version Control** | Git, GitHub |
 | **Deployment** | GitHub Pages |
+| **Design** | Figma (UI Prototyping), Framer Motion (Animations) |
 
-## ⚙️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/sakets-dev/website.git
+---
