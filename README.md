@@ -26,7 +26,13 @@ When I’m not coding, I’m probably reading a **Freida McFadden thriller**, sk
 | **Routing** | React Router DOM |
 | **Icons** | Lucide React |
 | **Version Control** | Git, GitHub |
-| **Deployment** | GitHub Pages |
+| **Deployment** | GitHub Pages, Vercel |
 | **Design** | Figma (UI Prototyping), Framer Motion (Animations) |
+| **Backend** | Node.js, Express.js, Flask |
+| **Databases** | MongoDB, PostgreSQL |
+| **APIs & Integration** | RESTful APIs, Fetch, Axios |
+| **Dev Tools** | VS Code, Postman, npm, Git Bash |
+| **Testing & Debugging** | Jest, React Testing Library, PyTest |
+| **Cloud & Hosting** | AWS (EC2, S3), Render |
 
 ---
