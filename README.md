@@ -8,9 +8,8 @@ Visit me! https://sakets-dev.github.io/website/
 Over the past few years, I’ve:
 - 🧩 Conducted **research at the University of Toronto** on complexity and organized behaviour  
 - ⚛️ Explored **quantum computing** with student researchers at the **University of Waterloo**  
-- 🏆 Won **1st Place in the Canadian AI Competition**  
-- 🎓 Completed **Harvard’s CS50x**  
-- 💡 Co-founded **SOAPure**, a natural body products startup  
+- 🏆 Won **1st Place in the Canadian AI Competition** 
+- 💡 Co-founded **SOAPure**, a startup (Discontinued)
 - 💻 Built and led multiple projects at **hackathons across North America**
 
 I love blending **technology, creativity, and community** — whether that’s through code, entrepreneurship, or mentoring other students.
