@@ -10,7 +10,7 @@ Contact me: saketshar04@gmail.com
 Over the past few years, I’ve:
 - 🧩 Conducted **research at the University of Toronto** on complexity and organized behaviour  
 - ⚛️ Explored **quantum computing** with student researchers at the **University of Waterloo**  
-- 🏆 Won **1st Place in the Canadian AI Competition** 
+- 🏆 Won **1st Place in the CAIC (Canadian AI Competition)** 
 - 💡 Co-founded **SOAPure**, a startup (Discontinued)
 - 💻 Built and led multiple projects at **hackathons across North America**
 
