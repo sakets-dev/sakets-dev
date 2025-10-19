@@ -1,7 +1,7 @@
 
 # 🌐 Saket Sharma
 
-Hey! I’m **Saket Sharma**, a Computer Science & Statistics student at the **University of Toronto (UTM)**.  
+Hey! I’m **Saket Sharma**, a student at the **University of Toronto** majoring in Computer Science and Statistics.  
 I’m passionate about building tools that make people’s lives easier — from productivity apps to AI systems that solve real-world problems.
 [Visit me!](https://sakets-dev.github.io/website/#/)
 
