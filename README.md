@@ -14,7 +14,7 @@ Over the past few years, I’ve:
 - 💡 Co-founded **SOAPure**, a startup (Discontinued)
 - 💻 Built and led multiple projects at **hackathons across North America**
 
-I love blending **technology, creativity, and community** — whether that’s through code, entrepreneurship, or mentoring other students.
+I love blending **technology, creativity, and community,** whether that’s through code, entrepreneurship, or mentoring other students.
 
 ---
 
