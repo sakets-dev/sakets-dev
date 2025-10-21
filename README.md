@@ -16,8 +16,6 @@ Over the past few years, I’ve:
 
 I love blending **technology, creativity, and community** — whether that’s through code, entrepreneurship, or mentoring other students.
 
-When I’m not coding, I’m probably reading a **Freida McFadden thriller**, sketching out new app ideas, or planning my next big project.
-
 ---
 
 ## 🚀 Tech Stack
