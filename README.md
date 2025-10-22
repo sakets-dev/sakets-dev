@@ -49,9 +49,6 @@ Over the years, I’ve:
 
 </div>
 
----
-
-<div align="center">
   
 <sub><i>“Design is intelligence made visible.”</i></sub>  
 <sub>— Alina Wheeler</sub>  
