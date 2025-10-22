@@ -38,23 +38,6 @@ Over the years, I’ve:
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-#### 🧏‍♂️ [Sign Language Interpreter](https://github.com/sakets-dev/sign_language_detector)
-<sub><i>Real-time gesture recognition using Python, OpenCV, and MediaPipe.</i></sub>
-
-#### 🖱️ [Vision-Controlled Mouse](https://github.com/sakets-dev/vision_controlled_mouse)
-<sub><i>Control your mouse with hand gestures — powered by computer vision.</i></sub>
-
-#### 💬 [Morse Code Decoder API](https://github.com/sakets-dev/morse-decoder-app)
-<sub><i>Flask-based REST API to encode and decode Morse code in real time.</i></sub>
-
-</div>
-
----
-
 ### 📈 My GitHub at a Glance
 
 <div align="center">
