@@ -48,9 +48,3 @@ Over the years, I’ve:
 [![Instagram](https://img.shields.io/badge/Instagram-DB2777?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saket.s4)
 
 </div>
-
-  
-<sub><i>“Design is intelligence made visible.”</i></sub>  
-<sub>— Alina Wheeler</sub>  
-
-</div>
