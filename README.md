@@ -10,7 +10,7 @@
 ### 🧭 About Me
 
 Hey! I’m **Saket Sharma**, currently studying **Computer Science & Statistics** at the **University of Toronto**.  
-I love turning abstract ideas into real tools — whether that’s decoding sign language, building AI APIs, or creating productivity apps that make life a little smoother.
+I love turning abstract ideas into real tools, whether that’s decoding sign language, building AI APIs, or creating productivity apps that make life a little smoother.
 
 Over the years, I’ve:
 - 🔬 Conducted **research** on complexity & organized behaviour (University of Toronto)  
@@ -38,24 +38,13 @@ Over the years, I’ve:
 
 ---
 
-### 📈 My GitHub at a Glance
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sakets-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakets-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
 ### 🌐 Let’s Connect
 
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://sakets-dev.github.io/website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saket-sharma-3a37871a7)
-[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketshar04@gmail.com)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketsharma0406@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-DB2777?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saket.s4)
 
 </div>
