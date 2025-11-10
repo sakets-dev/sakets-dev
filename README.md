@@ -13,11 +13,11 @@ Hey! I’m **Saket Sharma**, currently studying **Computer Science & Statistics*
 I love turning abstract ideas into real tools, whether that’s decoding sign language, building AI APIs, or creating productivity apps that make life a little smoother.
 
 Over the years, I’ve:
-- 🔬 Conducted **research** on complexity & organized behaviour (University of Toronto)  
-- ⚛️ Explored **quantum computing** with researchers at the University of Waterloo  
-- 🥇 Placed **1st in the Canadian AI Competition (CAIC)**  
-- 💡 Founded **SOAPure**, a natural body-care startup (discontinued but loved)  
-- ⚡ Led and won multiple **hackathons across North America**
+- Conducted **research** on complexity & organized behaviour (University of Toronto)  
+- Explored **quantum computing** with researchers at the University of Waterloo  
+- Placed **1st in the Canadian AI Competition (CAIC)**  
+- Founded **SOAPure**, a natural body-care startup (discontinued but loved)  
+- Led and won multiple **hackathons across North America**
 
 ---
 
