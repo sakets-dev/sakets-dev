@@ -21,23 +21,6 @@ Over the years, I’ve:
 
 ---
 
-### 🛠️ What I Work With
-
-<div align="center">
-
-| Area | Tools |
-|------|-------|
-| 🖥️ **Frontend** | React, Tailwind, JavaScript, HTML, CSS |
-| ⚙️ **Backend** | Node.js, Flask, Express.js |
-| 🧠 **AI / ML** | Python, MediaPipe, NumPy, OpenCV |
-| 🗄️ **Databases** | PostgreSQL, MongoDB |
-| 🧰 **Dev Tools** | Git, VSCode, Render, Vercel, AWS |
-| 🎨 **Design / UX** | Figma, Framer Motion, Lucide Icons |
-
-</div>
-
----
-
 ### 🌐 Let’s Connect
 
 <div align="center">
